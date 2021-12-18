@@ -5,6 +5,6 @@ The *Hadamard Gate* takes one Qubit & puts out a bit with equal probability of b
 
 The *Controlled-NOT (CCNOT) Gate* takes two Qubits & flips one Qubit from a single state of ket 0 to ket 1 if the control Qubit is already ket 1. If not, it leaves the Qubit unchanged. 
 
-If you choose to print the circuit to the console, you will see a circuit diagram. 
+If you choose to print the circuit to the console, you will see a circuit diagram. This program is merely intended for instructional purposes.
 
 Check [here](https://en.wikipedia.org/wiki/Quantum_circuit) for further reading.
